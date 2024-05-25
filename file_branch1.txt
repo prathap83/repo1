@@ -1,2 +1,2 @@
-Hello from branch1
+Hello from branch1 + new merge
 New content after pull
